@@ -17,5 +17,5 @@ Explorer les Réseaux de Transactions : Examiner les interactions et transaction
 Données Utilisées
 Les données pour ce projet proviennent du "Défi EGC 2024" et couvrent une période de 2 ans et demi, du 01/01/2015 au 30/06/2017. Elles incluent :
 
-Séries Temporelles : Données sur le cours du Bitcoin et l'activité des acteurs clés.
-Réseaux de Transactions : Données quotidiennes sur les transactions entre acteurs majeurs.
+- Séries Temporelles : Données sur le cours du Bitcoin et l'activité des acteurs clés.
+- Réseaux de Transactions : Données quotidiennes sur les transactions entre acteurs majeurs.
